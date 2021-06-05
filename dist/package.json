@@ -1,0 +1,30 @@
+{
+  "name": "fyord-game-engine",
+  "repository": {
+    "type": "GitHub",
+    "url": "https://github.com/Fyord/fyord"
+  },
+  "homepage": "https://fyord.dev/",
+  "author": {
+    "name": "Fyord"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "framework",
+    "engine",
+    "game",
+    "2d"
+  ],
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Extends fyord into a 2d game engine",
+  "private": false,
+  "main": "./module.js",
+  "types": "./module.d.ts",
+  "dependencies": {
+    "xss": "^1.0.8",
+    "tsbase": "^3.5.0",
+    "fyord": "^0.0.40"
+  }
+}

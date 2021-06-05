@@ -1,0 +1,10 @@
+node_modules
+coverage
+TESTS*.xml
+*debug.log
+public
+.DS_Store
+dist/**/*.js
+dist/**/*.ts
+dist/**/*.map
+workspace.*
